@@ -1,0 +1,21 @@
+C:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\Loader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\Loader\obj\x86\Debug\Loader.MainFrm.resources
+C:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\Loader\obj\x86\Debug\Loader.Properties.Resources.resources
+C:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\Loader\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\Loader\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\Loader\bin\x86\Debug\Loader.exe
+C:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\Loader\bin\x86\Debug\Loader.pdb
+C:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\Loader\obj\x86\Debug\Loader.exe
+C:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\Loader\obj\x86\Debug\Loader.pdb
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Debug\Loader.exe
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Debug\Loader.pdb
+D:\разработки\Чит для игры FEAR\Loader\Loader\bin\x86\Debug\Loader.exe
+D:\разработки\Чит для игры FEAR\Loader\Loader\bin\x86\Debug\Loader.pdb
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Debug\Loader.MainFrm.resources
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Debug\Loader.FrmHelp.resources
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Debug\Loader.Properties.Resources.resources
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Debug\Loader.csproj.GenerateResource.Cache
+D:\разработки\Чит для игры FEAR\Loader\Loader\bin\x86\Debug\Loader.exe.config
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Debug\Loader.Loader.resources
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Debug\Loader.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Чит для игры FEAR\Loader\Loader\bin\x86\Debug\Loader.exe.config

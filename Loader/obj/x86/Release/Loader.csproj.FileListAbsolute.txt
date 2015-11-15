@@ -1,0 +1,23 @@
+D:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\bin\x86\Release\Loader.exe
+D:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\bin\x86\Release\Loader.pdb
+D:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\obj\x86\Release\Loader.MainFrm.resources
+D:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\obj\x86\Release\Loader.Properties.Resources.resources
+D:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\obj\x86\Release\Loader.exe
+D:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\obj\x86\Release\Loader.pdb
+D:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\obj\x86\Release\Loader.frmHelp.resources
+D:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Users\Администратор\Desktop\пересобранный чит\Loader\Loader\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\разработки\Чит для игры FEAR\Loader\Loader\bin\x86\Release\Loader.exe
+D:\разработки\Чит для игры FEAR\Loader\Loader\bin\x86\Release\Loader.pdb
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Release\Loader.csprojResolveAssemblyReference.cache
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Release\Loader.MainFrm.resources
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Release\Loader.FrmHelp.resources
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Release\Loader.Properties.Resources.resources
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Release\Loader.csproj.GenerateResource.Cache
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Release\Loader.exe
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Release\Loader.pdb
+D:\разработки\Чит для игры FEAR\Loader\Loader\obj\x86\Release\Loader.Loader.resources
+D:\разработки\Чит для игры FEAR\Loader\Loader\bin\x86\Release\Loader.exe.config
+C:\Users\Администратор\Desktop\Чит для игры FEAR\Loader\Loader\bin\x86\Release\Loader.exe.config
+C:\Users\Администратор\Desktop\cheattoGIT\Loader\Loader\bin\x86\Release\Loader.exe.config
